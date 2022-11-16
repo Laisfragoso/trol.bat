@@ -1,2 +1,2 @@
-# YOUREDONE.BAT
-Repositório secreto. Não olhe.
+#trol.BAT
+trolagem, execute em ambiente de testes.
